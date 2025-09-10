@@ -51,10 +51,9 @@ export const DATA = {
   },
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
+    email: "markedcarlo@gmail.com",
     tel: "+123456789",
     social: {
       GitHub: {
@@ -66,10 +65,10 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/markedcarlo-linkedin",
+        url: "https://www.linkedin.com/in/mclumbayan/",
         icon: Icons.linkedin,
 
-        navbar: false,
+        navbar: true,
       },
       X: {
         name: "X",
@@ -80,9 +79,9 @@ export const DATA = {
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/markedcarlo-youtube",
+        url: "https://www.youtube.com/@MarkDev-jw9zs",
         icon: Icons.youtube,
-        navbar: false,
+        navbar: true,
       },
       email: {
         name: "Send Email",
