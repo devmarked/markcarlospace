@@ -207,6 +207,7 @@ export const DATA = {
       title: "FeedbackIQ",
       href: "https://feedbackiq-smart.vercel.app/",
       active: true,
+      dates: "",
       description:
         "FeedbackIQ is a comprehensive survey platform designed specifically for businesses to create, distribute, and analyze customer feedback with AI-powered insights. ",
       technologies: [
@@ -238,6 +239,7 @@ export const DATA = {
       title: "Opoos",
       href: "https://opoos.vercel.app/",
       active: true,
+      dates: "",
       description:
         "Opoos is a comprehensive internal tool designed specifically for sales teams and project managers to streamline the proposal and quotation workflow for website development projects.",
       technologies: [
@@ -269,6 +271,7 @@ export const DATA = {
       title: "Candidate Screener",
       href: "#",
       active: true,
+      dates: "",
       description:
         "Airtable Candidate Screener is an automated tool that allows you to screen candidates based on their skills and experience using AI.",
       technologies: [
@@ -290,6 +293,7 @@ export const DATA = {
       title: "Invoice Generator",
       href: "#",
       active: true,
+      dates: "",
       description:
         "Invoice Generator is an automated tool that allows you to generate invoices for your clients.",
       technologies: [
