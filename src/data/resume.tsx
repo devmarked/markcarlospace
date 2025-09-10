@@ -230,7 +230,7 @@ export const DATA = {
           icon: <Icons.youtube className="size-3" />,
         },
       ],
-      image: "/opoos.png",
+      image: "/fiq.png",
       video:
         "",
     },
@@ -263,7 +263,7 @@ export const DATA = {
           icon: <Icons.youtube className="size-3" />,
         },
       ],
-      image: "/opoos.png",
+      image: "/op.png",
       video: "",
     },
     {
