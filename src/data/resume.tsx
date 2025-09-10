@@ -58,7 +58,7 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/markedcarlo-github",
+        url: "https://github.com/devmarked/",
         icon: Icons.github,
 
         navbar: true,
