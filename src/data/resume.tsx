@@ -303,7 +303,7 @@ export const DATA = {
       links: [
         {
           type: "Video",
-          href: "https://youtu.be/8QOJFQM1_XM",
+          href: "https://www.youtube.com/watch?v=Ol4oQZttpmw",
           icon: <Icons.youtube className="size-3" />,
         },
       ],
