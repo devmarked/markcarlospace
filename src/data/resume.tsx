@@ -8,9 +8,9 @@ export const DATA = {
   location: "Philippines",
   locationLink: "",
   description:
-    "Builder & Problem Solver. I turn ideas into SaaS products, from mini-apps to full platforms. Passionate about coding, AI and Web3. Always experimenting, always shipping.",
+    "Problem Solver & Builder. I bring ideas to life through web development, automation, and project management—whether mini-apps, integrations, or full platforms. Passionate about coding, AI, and Web3. Always experimenting, always shipping.",
   summary:
-    "I’m a fullstack developer with a strong foundation in coding, research, and problem solving. I’ve built projects across SaaS, automation, and crypto — from small, focused mini-apps to full platforms. My approach is always hands-on: experimenting, testing, and refining until ideas become practical, usable solutions.",
+    "I’m a web developer with a strong foundation in project management, automation, coding, research, and problem solving. I’ve built websites and workflow automations, from small, focused mini-apps to full platforms. I also have a background in management, giving me the ability to handle both the technical and organizational sides of projects.",
   avatarUrl: "/me.jpg",
   skills: {
     "Frontend": [
@@ -46,7 +46,9 @@ export const DATA = {
       "Mailchimp",
     ],
     "Misc": [
-      "Web3"
+      "Web3",
+      "Project Management",
+      "Data Scraping and visualization"
     ],
   },
   navbar: [
