@@ -39,6 +39,8 @@ export const DATA = {
     "CMS": [
       "WordPress",
       "Shopify",
+      "Framer",
+      "Webflow"
     ],
     "Marketing": [
       "SEO",
