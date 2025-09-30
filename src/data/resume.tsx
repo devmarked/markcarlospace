@@ -14,6 +14,7 @@ export const DATA = {
   avatarUrl: "/me.jpg",
   skills: {
     "Frontend": [
+      "HTML/CSS/JS",
       "React",
       "Next.js",
       "Typescript",
@@ -23,24 +24,37 @@ export const DATA = {
     "Backend": [
       "Node.js",
       "Python",
+      "PHP",
     ],
     "DB & Services": [
       "Supabase",
       "Firebase",
       "MongoDB",
-    ],
-    "Automations": [
-      "AI",
-      "n8n",
-      "Zapier",
-      "AirTable",
-      "Playwright",
+      "MySQL",
+      "PostgreSQL",
     ],
     "CMS": [
       "WordPress",
       "Shopify",
+      "Squarespace",
       "Framer",
       "Webflow"
+    ],
+    "Hosting & Infrastructure": [
+      "DNS Management",
+      "SSL",
+      "Vercel",
+      "Cloudflare",
+      "AWS",
+      "DigitalOcean",
+      "VPS",
+    ],
+    "Automations": [
+      "AI Integrations",
+      "n8n",
+      "Zapier",
+      "AirTable",
+      "Playwright",
     ],
     "Marketing": [
       "SEO",
@@ -49,8 +63,11 @@ export const DATA = {
     ],
     "Misc": [
       "Web3",
+      "Wallet Automation",
+      "Protocol Testing",
+      "SEO",
       "Project Management",
-      "Data Scraping and visualization"
+      "UI/UX Design",
     ],
   },
   navbar: [
@@ -312,6 +329,48 @@ export const DATA = {
         },
       ],
       image: "/invoice.png",
+      video: "",
+    },
+    {
+      title: "HomePro Website",
+      href: "#",
+      active: true,
+      dates: "",
+      description:
+      "Developed a modern, high-performance website for HomePro, a professional repair company. Focused on clean design, fast load times, and seamless user experience using WordPress.",
+      technologies: [
+        "Wordpress",
+        ,
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://homepro.markcarlo.space/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/homepro (2).png",
+      video: "",
+    },
+    {
+      title: "SolarPower Website",
+      href: "#",
+      active: true,
+      dates: "",
+      description:
+        "Developed a modern, high-performance website for SolarPower, a solar energy provider. Focused on clean design, fast load times, and seamless user experience using WordPress.",
+      technologies: [
+        "Wordpress",
+        ,
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://solarpower.markcarlo.space/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/solar.png",
       video: "",
     },
   ],
