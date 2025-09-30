@@ -340,7 +340,6 @@ export const DATA = {
       "Developed a modern, high-performance website for HomePro, a professional repair company. Focused on clean design, fast load times, and seamless user experience using WordPress.",
       technologies: [
         "Wordpress",
-        ,
       ],
       links: [
         {
@@ -361,7 +360,6 @@ export const DATA = {
         "Developed a modern, high-performance website for SolarPower, a solar energy provider. Focused on clean design, fast load times, and seamless user experience using WordPress.",
       technologies: [
         "Wordpress",
-        ,
       ],
       links: [
         {
