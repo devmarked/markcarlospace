@@ -288,49 +288,60 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Candidate Screener",
+      title: "SenpAI",
       href: "#",
       active: true,
       dates: "",
       description:
-        "Airtable Candidate Screener is an automated tool that allows you to screen candidates based on their skills and experience using AI.",
+      "Developed SenpAI, a platform that connects users with expert AI mentors for personalized 1:1 sessions, project guidance, and career acceleration, focusing on user-friendly experience and robust functionality with WordPress.",
       technologies: [
-        "Airtable",
-        "N8N",
-        "OpenAI",
+        "SvelteKit",
+        "Typescript",
+        "TailwindCSS",
+        "Supabase",
+        "Vercel"
       ],
       links: [
         {
-          type: "Video",
-          href: "https://youtu.be/8QOJFQM1_XM",
-          icon: <Icons.youtube className="size-3" />,
+          type: "Website",
+          href: "https://senpai-five.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/n8n-hr.png",
+      image: "/senpai.png",
       video: "",
     },
     {
-      title: "Invoice Generator",
+      title: "DoodleMation",
       href: "#",
       active: true,
       dates: "",
       description:
-        "Invoice Generator is an automated tool that allows you to generate invoices for your clients.",
+      "Built DoodleMation, a tool that brings your images to life by turning them into animated videos with AI—making creativity and animation accessible to everyone.",
       technologies: [
-        "Airtable",
-        "N8N",
-        "Invoice Generator API",
+        "SvelteKit",
+        "Typescript",
+        "TailwindCSS",
+        "OpenAI",
+        "Replicate API",
+        "Supabase",
+        "Vercel"
       ],
       links: [
         {
-          type: "Video",
-          href: "https://www.youtube.com/watch?v=Ol4oQZttpmw",
-          icon: <Icons.youtube className="size-3" />,
+          type: "Website",
+          href: "https://doodlemation.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/invoice.png",
+      image: "/doddlemation.png",
       video: "",
     },
+
+
+
+
+
     {
       title: "HomePro Website",
       href: "#",
@@ -371,5 +382,49 @@ export const DATA = {
       image: "/solar.png",
       video: "",
     },
+    // {
+    //   title: "Candidate Screener",
+    //   href: "#",
+    //   active: true,
+    //   dates: "",
+    //   description:
+    //     "Airtable Candidate Screener is an automated tool that allows you to screen candidates based on their skills and experience using AI.",
+    //   technologies: [
+    //     "Airtable",
+    //     "N8N",
+    //     "OpenAI",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Video",
+    //       href: "https://youtu.be/8QOJFQM1_XM",
+    //       icon: <Icons.youtube className="size-3" />,
+    //     },
+    //   ],
+    //   image: "/n8n-hr.png",
+    //   video: "",
+    // },
+    // {
+    //   title: "Invoice Generator",
+    //   href: "#",
+    //   active: true,
+    //   dates: "",
+    //   description:
+    //     "Invoice Generator is an automated tool that allows you to generate invoices for your clients.",
+    //   technologies: [
+    //     "Airtable",
+    //     "N8N",
+    //     "Invoice Generator API",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Video",
+    //       href: "https://www.youtube.com/watch?v=Ol4oQZttpmw",
+    //       icon: <Icons.youtube className="size-3" />,
+    //     },
+    //   ],
+    //   image: "/invoice.png",
+    //   video: "",
+    // },
   ],
 } as const;
