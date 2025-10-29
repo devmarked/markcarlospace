@@ -382,49 +382,49 @@ export const DATA = {
       image: "/solar.png",
       video: "",
     },
-    // {
-    //   title: "Candidate Screener",
-    //   href: "#",
-    //   active: true,
-    //   dates: "",
-    //   description:
-    //     "Airtable Candidate Screener is an automated tool that allows you to screen candidates based on their skills and experience using AI.",
-    //   technologies: [
-    //     "Airtable",
-    //     "N8N",
-    //     "OpenAI",
-    //   ],
-    //   links: [
-    //     {
-    //       type: "Video",
-    //       href: "https://youtu.be/8QOJFQM1_XM",
-    //       icon: <Icons.youtube className="size-3" />,
-    //     },
-    //   ],
-    //   image: "/n8n-hr.png",
-    //   video: "",
-    // },
-    // {
-    //   title: "Invoice Generator",
-    //   href: "#",
-    //   active: true,
-    //   dates: "",
-    //   description:
-    //     "Invoice Generator is an automated tool that allows you to generate invoices for your clients.",
-    //   technologies: [
-    //     "Airtable",
-    //     "N8N",
-    //     "Invoice Generator API",
-    //   ],
-    //   links: [
-    //     {
-    //       type: "Video",
-    //       href: "https://www.youtube.com/watch?v=Ol4oQZttpmw",
-    //       icon: <Icons.youtube className="size-3" />,
-    //     },
-    //   ],
-    //   image: "/invoice.png",
-    //   video: "",
-    // },
+    {
+      title: "Candidate Screener",
+      href: "#",
+      active: true,
+      dates: "",
+      description:
+        "Airtable Candidate Screener is an automated tool that allows you to screen candidates based on their skills and experience using AI.",
+      technologies: [
+        "Airtable",
+        "N8N",
+        "OpenAI",
+      ],
+      links: [
+        {
+          type: "Video",
+          href: "https://youtu.be/8QOJFQM1_XM",
+          icon: <Icons.youtube className="size-3" />,
+        },
+      ],
+      image: "/n8n-hr.png",
+      video: "",
+    },
+    {
+      title: "Invoice Generator",
+      href: "#",
+      active: true,
+      dates: "",
+      description:
+        "Invoice Generator is an automated tool that allows you to generate invoices for your clients.",
+      technologies: [
+        "Airtable",
+        "N8N",
+        "Invoice Generator API",
+      ],
+      links: [
+        {
+          type: "Video",
+          href: "https://www.youtube.com/watch?v=Ol4oQZttpmw",
+          icon: <Icons.youtube className="size-3" />,
+        },
+      ],
+      image: "/invoice.png",
+      video: "",
+    },
   ],
 } as const;
